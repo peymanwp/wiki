@@ -56,6 +56,29 @@ To confirm and view thermal performance post-simulation you can look in the **En
 
 The *Building Envelope Thermal Bridging Guide* published by BC Hydro Smart, including a comprehensive list of material data, and construction assemblies which provide overall thermal performance characteristics that can be used in the OpenStudio model.
 
+## Common Beam Materials
+Based on this [UnmetHours post](https://www.archterms.com/what-is-a-beam-in-construction-everything-you-need-to-know/).
+
+Beams can be constructed from several materials. The appropriate material depends on the structural requirements, building type, span, cost, construction methods, and architectural objectives.
+Reinforced Concrete Beams
+
+Reinforced concrete beams are extremely common in modern construction. Concrete is strong in compression but comparatively weak in tension. Steel reinforcement is therefore placed inside the concrete to resist tensile forces.
+
+Reinforced concrete beams can be cast on site or manufactured as precast components. They are widely used in residential, commercial, industrial, and institutional buildings.
+Steel Beams
+
+Steel beams provide high strength relative to their weight and are particularly useful for long spans and heavily loaded structures. Common steel beam sections include I-beams, H-beams, channels, and box sections.
+
+Steel beams are frequently used in commercial buildings, warehouses, industrial structures, bridges, and high-rise construction.
+Timber Beams
+
+Timber beams have been used in construction for thousands of years. Modern timber construction uses both solid-sawn timber and engineered wood products such as glulam and laminated veneer lumber.
+
+Timber beams are common in residential buildings and can also be used for architectural exposed structures where the natural appearance of wood is desired.
+Composite Beams
+
+Composite beams combine two or more materials so that they work together structurally. A common example is a steel beam supporting a reinforced concrete floor slab. Properly designed connections allow the steel and concrete to share structural loads.
+
 ### Related OpenStudio Topics
 - [Constructions](/openstudio-openstudio-application-constructions/)
 
@@ -66,3 +89,4 @@ The *Building Envelope Thermal Bridging Guide* published by BC Hydro Smart, incl
 
 ### External Resources
 - Building Envelope Thermal Bridging Guide ([2016 Lite Version](https://web.archive.org/web/20220901054651/https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/power-smart/builders-developers/building-envelope-thermal-bridging-guide-1.1.pdf), [2021 Version](https://web.archive.org/web/20250113221333/https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/power-smart/builders-developers/building-envelope-thermal-bridging-guide-v1-6.pdf#expand))
+- [UnmetHours post](https://www.archterms.com/what-is-a-beam-in-construction-everything-you-need-to-know/).
